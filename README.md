@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohit Sharma</h1>
 <h3 align="center">Electrical Engineering student at IIT Jodhpur with knowledge in DSA, c++,python and a keen interest in Data Analytics and Web Development.</h3>
-<img alt="Coding" align="right" width="450" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" >
+<img alt="Coding" align="right" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 - 👨‍💻 All of my projects are available at [https://myportfolio-mohit.netlify.app/](https://myportfolio-mohit.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
