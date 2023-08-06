@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/mohit_sharma_.20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit_sharma_.20" height="30" width="40" /></a>
+<a href="https://instagram.com/mohit_sharma_.20" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="mohit_sharma_.20" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
