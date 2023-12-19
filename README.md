@@ -3,6 +3,16 @@
 
 <h1 align="center">Hi 👋, I'm Mohit Sharma</h1>
 <h3 align="center">Electrical Engineering student at IIT Jodhpur with knowledge in DSA, c++,python and a keen interest in Data Analytics and Web Development.</h3>
+<br>
+<p align='centre'>
+  Visitor no     :
+  <img src="https://profile-counter.glitch.me/mohitsharma-iitj/count.svg" />
+</p>
+<br>
+
+
+
+
 <img alt="Coding" align="right" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 - 👨‍💻 All of my projects are available at- https://myportfolio-mohit.netlify.app/
 
