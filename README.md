@@ -1,7 +1,7 @@
 <table>
   <tbody><tr>
     <td>Visitor no.</td>
-    <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/709bcaad4aa71cc04d1f03117639a626353738ae694a9f0b1123c9dff0a6b1ad/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6d6f686974736861726d612d6969746a2f636f756e742e737667"><img src="https://camo.githubusercontent.com/709bcaad4aa71cc04d1f03117639a626353738ae694a9f0b1123c9dff0a6b1ad/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6d6f686974736861726d612d6969746a2f636f756e742e737667" alt="vistor count" height="50" data-canonical-src="https://profile-counter.glitch.me/mohitsharma-iitj/count.svg" style="max-width: 100%;"></a></td>
+    <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/709bcaad4aa71cc04d1f03117639a626353738ae694a9f0b1123c9dff0a6b1ad/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6d6f686974736861726d612d6969746a2f636f756e742e737667"><img src="https://profile-counter.glitch.me/mohitsharma-iitj/count.svg" alt="vistor count" height="50" ></a></td>
   </tr>
 </tbody></table>
 
