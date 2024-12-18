@@ -9,14 +9,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohit Sharma</h1>
-<h3 align="center">Electrical Engineering student at IIT Jodhpur with knowledge in DSA, c++,python and a keen interest in Data Analytics and Web Development.</h3>
+<h3 align="center">Electrical Engineering student at IIT Jodhpur with knowledge in DSA, C++,python and a keen interest in Software Development, Machine Learning and Data Science</h3>
 
 <img alt="Coding" align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsharma-iitj" >
 - 👨‍💻 All of my projects are available at- https://myportfolio-mohit.netlify.app/
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me : </h3>
 <p align="left">
-<a href="https://instagram.com/mohit_sharma_.20" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="mohit_sharma_.20" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mohit-sharma-03672625b/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="mohit-sharma-03672625b/" height="30" width="30" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
