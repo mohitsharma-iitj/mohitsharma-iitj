@@ -9,7 +9,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohit Sharma</h1>
-<h3 align="center">Electrical Engineering student at IIT Jodhpur with knowledge in DSA, C++,python and a keen interest in Software Development, Machine Learning and Data Science</h3>
+<h3 align="center">A B.Tech. graduate from IIT Jodhpur, having a strong interest in Software Development, Machine Learning and developing data-driven solutions to solve real-world problems. </h3>
 
 <img alt="Coding" align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsharma-iitj" >
 - 👨‍💻 All of my projects are available at- https://myportfolio-mohit.netlify.app/
